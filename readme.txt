@@ -8,6 +8,6 @@ Step 2. Make main.py into an executable (.exe) with the console command "pyinsta
 Step 3. Add every folder but "hooksin.bat" to a new directory named "cache"
 Step 4. With hooksin.bat being in the same folder as the newly made "cache" run hooksin.bat in administrator.
 
-You're done, you will recieve emails every 30 seconds if they target machine has typed anything within those 30 seconds.
+You're done, you will recieve emails every 30 seconds, only if the target machine has typed anything within those 30 seconds.
 
 !!!!FOR EDUCATIONAL PURPOSES ONLY!!!!
